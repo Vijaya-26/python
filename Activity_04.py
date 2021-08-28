@@ -1,4 +1,4 @@
 x=input()
 y=input()
 sum=int(x)+int(y)
-print(x,"+",y,"=",sum)
+print("{}+{}={}".format(x,y,sum))
